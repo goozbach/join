@@ -17,8 +17,8 @@ Become a Contributor
 
 The GoOSe Project as a very simple process for joining the project.
 
-* Fork this repository
+* `Fork this repository <https://github.com/gooseproject/join/blob/master/README.rst#fork_box`_
 * Add your name, email address (optional) and github username to the CONTRIB.rst file in this directory.
-* Submit a pull request
+* `Submit a pull request <https://github.com/gooseproject/join/pull/new/master`_
 
 Once the pull request is processed and merged into this repository, you will be added to the 'GoOSe' team. This will allow you to submit issues to the GoOSe repository.
